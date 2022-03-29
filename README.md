@@ -40,7 +40,7 @@ Studierende: Johannes Muck und Erik Bayer
 
 
 ### Connect - Medientechnik virtuell sehen, erleben und verstehen
-![ConnectImage]https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/connect.png)
+![ConnectImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/connect.png)
 “Connect” ist ein virtueller Lernraum, in dem man sich realitätsnah mit moderner Medientechnik im Veranstaltungsbereich vertraut machen und sein Wissen erweitern kann. Den Rahmen dafür bildet ein Messestand, auf dem typische Audio- und Video-Medientechnik verbaut ist, die von den VR-Anwender:innen erkundet und genutzt werden kann. [Weiterlesen...](https://digital.dthg.de/connect-medientechnik-virtuell-sehen-erleben-und-verstehen/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Connect
