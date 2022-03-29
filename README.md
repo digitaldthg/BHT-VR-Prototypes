@@ -10,7 +10,7 @@ Im Laufe von zwei Semestern (2020/2021) sind sechs Prototypen entstanden, von de
 Die Prototypen wurden mit Unity (2020) entwickelt. "Hazard Detector" und "Connect" wurden für die Quest entwickelt, die anderen für Windows Mixed Reality Headsets. 
 
 ### Let There Be Light
-![LetThereBeLightImage](https://github.com/digitaldthg/Beuth-VR-Prototypes/blob/main/images/LetThereBeLight.jpeg)
+![LetThereBeLightImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/LetThereBeLight.jpeg)
 Das VR-Projekt „Let There Be Light – Lerne den Umgang mit Licht und Farbe“ vermittelt Grundbegriffe und Funktionen der Beleuchtungstechnik. Der VR-Nutzer hat in dieser Lernumgebung die Möglichkeit, eine Reihe an Übungen zu absolvieren wie z.B. das Einleuchten einer Bühne, das Verfolgen eines Objekts oder das additive Mischen von Lichtfarben. [Weiterlesen...](https://digital.dthg.de/let-there-be-light/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-LetThereBeLight
@@ -20,7 +20,7 @@ Studierende:  Lukas Berger und Jan Graev
 
 
 ### Cybertheater 2077
-![CybertheaterImage](https://github.com/digitaldthg/Beuth-VR-Prototypes/blob/main/images/Cybertheater.png)
+![CybertheaterImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/Cybertheater.png)
 Ziel des Lernspiels „Cybertheater 2077: ein kleiner Klick für einen Menschen, aber ein großer Sprung für die Menschheit“ ist es, einen umfassenden Einblick in die technischen Berufsfelder, Arbeitsweisen und Aufgabenbereiche eines Theaters zu erhalten. [Weiterlesen...](https://digital.dthg.de/cybertheater-2077/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Cybertheater
@@ -30,7 +30,7 @@ Studierende: Jan Steffens und Felix Ridder
 
 
 ### Hazard Detector – Fehler finden im virtuellen Raum
-![HazardDetectorImage](https://github.com/digitaldthg/Beuth-VR-Prototypes/blob/main/images/HazardDetector.jpeg)
+![HazardDetectorImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/HazardDetector.jpeg)
 Der virtuelle Lernraum „Hazard Detector“ hat das Ziel, theoretisch erlerntes Wissen in einem realistischen Arbeitsumfeld praxisnah zu erproben. Als VR-Trainingsraum steht eine Messehalle mit einem auf Arbeitshöhe hängenden Traversenrigg zur Verfügung. Bevor das Rigg an den Kettenzügen an seine Endposition gezogen wird, soll durch die Anwender:innen ein letzter Sicherheitscheck erfolgen und mögliche Gefahrenquellen identifiziert werden. Zu finden sind sowohl offensichtliche Fehler, die auch einem ungeschulten Auge auffallen – wie z. B. ein auf der Traverse vergessener Hammer – und solche, die eine genaue Kenntnis der Regeln und Verordnungen der Veranstaltungswelt voraussetzen – wie z.B. ein fehlendes Anschlagmittel-Etikett. [Weiterlesen...](https://digital.dthg.de/hazard-detector-fehler-finden-im-virtuellen-raum/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-HazardDetector
@@ -50,7 +50,7 @@ Studierende: Sebastian Finsterer, Marius Mirschberger, Gilbert Adamek
 
 
 ### Klangraum
-![KlangraumImage](https://github.com/digitaldthg/Beuth-VR-Prototypes/blob/main/images/Klangraum.png)
+![KlangraumImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/Klangraum.png)
 Der “Klangraum” ist ein virtueller Lernraum für den Bereich der Tongestaltung. Ziel ist es, unterschiedliche Mikrofonierungen von Instrumenten anhören und vergleichen zu können. Zwei verschiedene Räume stehen zur Verfügung: Auf einer Bühne können Instrumente mikrofoniert werden und richtige Auswahl erprobt werden. In einem Tonstudio liegt der Fokus auf der Positionierung des Mikrofons relativ zum Instrument. [Weiterlesen...](https://digital.dthg.de/klangraum-mikrofonierung-virtuell-erleben/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Klangraum
