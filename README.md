@@ -33,7 +33,7 @@ Studierende: Jan Steffens und Felix Ridder
 ![HazardDetectorImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/HazardDetector.jpeg)
 Der virtuelle Lernraum „Hazard Detector“ hat das Ziel, theoretisch erlerntes Wissen in einem realistischen Arbeitsumfeld praxisnah zu erproben. Als VR-Trainingsraum steht eine Messehalle mit einem auf Arbeitshöhe hängenden Traversenrigg zur Verfügung. Bevor das Rigg an den Kettenzügen an seine Endposition gezogen wird, soll durch die Anwender:innen ein letzter Sicherheitscheck erfolgen und mögliche Gefahrenquellen identifiziert werden. Zu finden sind sowohl offensichtliche Fehler, die auch einem ungeschulten Auge auffallen – wie z. B. ein auf der Traverse vergessener Hammer – und solche, die eine genaue Kenntnis der Regeln und Verordnungen der Veranstaltungswelt voraussetzen – wie z.B. ein fehlendes Anschlagmittel-Etikett. [Weiterlesen...](https://digital.dthg.de/hazard-detector-fehler-finden-im-virtuellen-raum/)
 
-Repository: https://github.com/digitaldthg/BHT-VR-HazardDetector
+Projektdateien: http://digital.dthg.de/data/UnityHazardDetektorVRredux.zip
 
 Studierende: Johannes Muck und Erik Bayer
 
