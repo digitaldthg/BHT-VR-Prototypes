@@ -20,7 +20,7 @@ Studierende:  Lukas Berger und Jan Graev
 
 
 ### Cybertheater 2077
-![CybertheaterImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/Cybertheater.png)
+![CybertheaterImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/cybertheater.png)
 Ziel des Lernspiels „Cybertheater 2077: ein kleiner Klick für einen Menschen, aber ein großer Sprung für die Menschheit“ ist es, einen umfassenden Einblick in die technischen Berufsfelder, Arbeitsweisen und Aufgabenbereiche eines Theaters zu erhalten. [Weiterlesen...](https://digital.dthg.de/cybertheater-2077/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Cybertheater
@@ -40,7 +40,7 @@ Studierende: Johannes Muck und Erik Bayer
 
 
 ### Connect - Medientechnik virtuell sehen, erleben und verstehen
-![ConnectImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/Connect.png?raw=true)
+![ConnectImage]https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/connect.png)
 “Connect” ist ein virtueller Lernraum, in dem man sich realitätsnah mit moderner Medientechnik im Veranstaltungsbereich vertraut machen und sein Wissen erweitern kann. Den Rahmen dafür bildet ein Messestand, auf dem typische Audio- und Video-Medientechnik verbaut ist, die von den VR-Anwender:innen erkundet und genutzt werden kann. [Weiterlesen...](https://digital.dthg.de/connect-medientechnik-virtuell-sehen-erleben-und-verstehen/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Connect
@@ -50,7 +50,7 @@ Studierende: Sebastian Finsterer, Marius Mirschberger, Gilbert Adamek
 
 
 ### Klangraum
-![KlangraumImage](images/Klangraum.png)
+![KlangraumImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/mikro.png)
 Der “Klangraum” ist ein virtueller Lernraum für den Bereich der Tongestaltung. Ziel ist es, unterschiedliche Mikrofonierungen von Instrumenten anhören und vergleichen zu können. Zwei verschiedene Räume stehen zur Verfügung: Auf einer Bühne können Instrumente mikrofoniert werden und richtige Auswahl erprobt werden. In einem Tonstudio liegt der Fokus auf der Positionierung des Mikrofons relativ zum Instrument. [Weiterlesen...](https://digital.dthg.de/klangraum-mikrofonierung-virtuell-erleben/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Klangraum
