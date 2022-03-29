@@ -50,7 +50,7 @@ Studierende: Sebastian Finsterer, Marius Mirschberger, Gilbert Adamek
 
 
 ### Klangraum
-![KlangraumImage](https://github.com/digitaldthg/BHT-VR-Prototypes/blob/master/images/Klangraum.png)
+![KlangraumImage](images/Klangraum.png)
 Der “Klangraum” ist ein virtueller Lernraum für den Bereich der Tongestaltung. Ziel ist es, unterschiedliche Mikrofonierungen von Instrumenten anhören und vergleichen zu können. Zwei verschiedene Räume stehen zur Verfügung: Auf einer Bühne können Instrumente mikrofoniert werden und richtige Auswahl erprobt werden. In einem Tonstudio liegt der Fokus auf der Positionierung des Mikrofons relativ zum Instrument. [Weiterlesen...](https://digital.dthg.de/klangraum-mikrofonierung-virtuell-erleben/)
 
 Repository: https://github.com/digitaldthg/BHT-VR-Klangraum
